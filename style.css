@@ -1,0 +1,65 @@
+<style>
+            h1{
+                background-color: rgb(144, 171, 166);
+                color: red;
+                font-family: Arial;
+                font-size: 50px;
+                text-align: center;
+                margin: 40px;
+                padding: 10px;
+                border: dotted 5px;
+                background: url("images/th.jpg");
+                background-size: cover;
+            }
+            
+            li{
+                background-color: silver;
+                margin: 5px;
+                padding: 10px;
+                border: solid 1px;
+            }
+            li:hover{
+                background-color: #87CEFA;
+                text-align: center;
+            }
+            
+            a{
+                color: green;
+                text-decoration: none;
+                font-weight: 700;
+            }
+            
+            a:hover{
+                color: blue;
+            }
+            
+            table{
+                border: solid 1px ;
+                width: 100%;
+            }
+            
+            td{
+                border: solid 1px;
+            }
+            
+            .pink{
+                background-color: pink;
+            }
+            
+            .inner span{
+                background-color: #FFEE00;
+            }
+            
+            #item{
+                background-color: green;
+            }
+            
+            #image{
+                height: 300px;
+                width: 800px;
+            }
+            input{
+                width: 100%;
+                font-size: 30px;
+            }
+</style>
